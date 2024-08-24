@@ -11,4 +11,6 @@
 
 6- I added excepton handler where the code was consuming other methods and there might be a chance of thrown exceptions.
 
+7- Depend to Python setting on the local machine, I used Python 3 but I use the alias Python so if Python 2 is installed you may need to use python3 command instead of python.
+
 

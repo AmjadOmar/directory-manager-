@@ -7,7 +7,7 @@
 
 4- I also added extra unit tests for all 4 cases (Create, Delete, Move, List) in test_directories.py file and can be run with command 'python test_directories.py'
 
-5- I added comments where I felt it might be needed to understand the effect of the line code.
+5- I added comments where I felt it might be needed to understand the effect of the code linee.
 
 6- I added excepton handler where the code was consuming other methods and there might be a chance of thrown exceptions.
 

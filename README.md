@@ -1,4 +1,4 @@
-# directory-manager for Endpoint
+# directory-manager
 1- Because one of the requirements is to not create phyiscal folders I created them in-memory (dictionary data structure)
 
 2- The Directoty class code is in directories.py and can be run with command: 'python directories.py'

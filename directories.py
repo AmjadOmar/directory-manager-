@@ -69,7 +69,7 @@ def main():
 
     while True:
         try:
-            command = input("Enter command: ")
+            command = input()
             if command.strip().lower() == "exit":
                 print("Exiting...")
                 break
